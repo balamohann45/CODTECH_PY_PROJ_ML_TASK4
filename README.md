@@ -65,7 +65,7 @@ jupyter notebook
 Navigate to notebook/spam_classifier.ipynb and run the notebook cells step-by-step.
 
 # OUTPUT OF PROJECT
-![Image](https://github.com/user-attachments/assets/d21262f6-3a64-4576-a2c7-de9096f38177)
+![Image](https://github.com/user-attachments/assets/272a722d-aa90-4325-8468-b4fde5f1c460)
 
 
 
