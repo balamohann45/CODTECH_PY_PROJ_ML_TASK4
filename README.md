@@ -22,7 +22,7 @@ This project involves the implementation of a supervised machine learning model 
 5.Model training and tuning
 6.Model evaluation using standard metrics
 
-#TECHNOLOGIES USED
+# TECHNOLOGIES USED
 Technology	                Description
 Python 3.x	                Programming Language
 Jupyter Notebook	          Interactive development environment
@@ -31,7 +31,7 @@ Pandas & NumPy	            Data manipulation and numerical computation
 Matplotlib & Seaborn	      Data visualization
 NLTK / re (optional)	      Text processing and cleaning
 
-#FEATURES OF THE PROJECT
+# FEATURES OF THE PROJECT
 Preprocessing of raw email text (removing HTML tags, punctuation, etc.)
 Feature engineering using TF-IDF Vectorization
 Training using models like Logistic Regression, Naive Bayes, and/or Random Forest
