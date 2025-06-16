@@ -23,13 +23,18 @@ This project involves the implementation of a supervised machine learning model 
 6.Model evaluation using standard metrics
 
 # TECHNOLOGIES USED
-Technology	                Description
-Python 3.x	                Programming Language
-Jupyter Notebook	          Interactive development environment
-Scikit-learn	              ML library for training and evaluation
-Pandas & NumPy	            Data manipulation and numerical computation
-Matplotlib & Seaborn	      Data visualization
-NLTK / re (optional)	      Text processing and cleaning
+Technology	     --------   Description
+Python 3.x	      ------    Programming Language
+
+Jupyter Notebook	-------   Interactive development environment
+
+Scikit-learn	   ---------  ML library for training and evaluation
+
+Pandas & NumPy	 --------- Data manipulation and numerical computation
+
+Matplotlib & Seaborn	------- Data visualization
+
+NLTK / re (optional) ---------- Text processing and cleaning
 
 # FEATURES OF THE PROJECT
 Preprocessing of raw email text (removing HTML tags, punctuation, etc.)
@@ -37,30 +42,34 @@ Feature engineering using TF-IDF Vectorization
 Training using models like Logistic Regression, Naive Bayes, and/or Random Forest
 Hyperparameter tuning via GridSearchCV
 Evaluation using metrics like:
+
 Accuracy
+
 Precision
+
 Recall
+
 F1 Score
+
 Confusion Matrix
+
 ROC Curve
+
 # HOW TO RUN THIS PROJECT
 1. Clone the repository
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/spam-classifier.git
-cd spam-classifier
-2. Create virtual environment and install dependencies
-bash
-Copy
-Edit
+
+2.cd spam-classifier
+
+3. Create virtual environment and install dependencies
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
-3. Open Jupyter Notebook
-bash
-Copy
-Edit
+
+4. Open Jupyter Notebook
+
 jupyter notebook
 Navigate to notebook/spam_classifier.ipynb and run the notebook cells step-by-step.
 
