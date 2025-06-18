@@ -83,6 +83,14 @@ In VS Code, open the terminal and run:
 
 4.Evaluation: Results are compared with actual labels using accuracy, precision, recall, and confusion matrix.
 
+# OUTPUT OF PROJECT
+![Image](https://github.com/user-attachments/assets/80b27ec8-6bda-4628-a620-3bba1483a437)
+
+
+
+
+
+
 
 
 
