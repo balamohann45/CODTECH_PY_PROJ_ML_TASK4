@@ -85,6 +85,8 @@ In VS Code, open the terminal and run:
 
 # OUTPUT OF PROJECT
 ![Image](https://github.com/user-attachments/assets/80b27ec8-6bda-4628-a620-3bba1483a437)
+![Image](https://github.com/user-attachments/assets/a1c89672-94af-4a37-a147-ef0c1f75e937)
+
 
 
 
