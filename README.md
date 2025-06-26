@@ -1,4 +1,4 @@
-# Machine Model And Implementation    
+# Machine Learning Model And Implementation    
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
